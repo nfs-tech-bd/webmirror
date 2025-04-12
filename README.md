@@ -37,15 +37,15 @@ pip install requests beautifulsoup4 urllib3
 
 
 
-🚀 Usage
+## 🚀 Usage
 ```python3 cloner.py -d https://example.com```
 
 
-🛡️ Disclaimer
+## 🛡️ Disclaimer
 
 This tool is for educational, testing, and archival purposes only.
 Please do not use it to scrape, mirror, or clone websites without permission.
 
-🙌 Credits
+## 🙌 Credits
 Made by <a href="https://t.me/Nafisfyad1">@Nafisfuad1</a>
 With ❤️ using Python and a lot of curiosity.
