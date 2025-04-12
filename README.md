@@ -11,7 +11,7 @@
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nfs-tech-bd/webmirror/refs/heads/main/logo.png" alt="WebMirror SS" width="300"/>
+  <img src="https://raw.githubusercontent.com/nfs-tech-bd/webmirror/refs/heads/main/logo.png" alt="WebMirror SS" width="500"/>
 </p>
 
 ---
