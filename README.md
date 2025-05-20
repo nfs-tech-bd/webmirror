@@ -30,15 +30,13 @@
 
 ## 🧰 Installation
 ```
-git clone https://github.com/nfs-tech-bd/webmirror.git
-cd site-cloner
-pip install requests beautifulsoup4 urllib3
+pip install webmirror
 ```
 
 
 
 ## 🚀 Usage
-```python3 main.py -d https://example.com```
+```webmirror -d https://example.com```
 
 
 ## 🛡️ Disclaimer
